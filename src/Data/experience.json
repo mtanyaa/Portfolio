@@ -1,0 +1,32 @@
+
+[
+  {
+    
+    "id": 1,
+    "role": "Project Intern",
+    "organization": "Hewlett Packard Enterprise",
+    "startYear":"2025 Feb",
+    "endYear":"2025 June",
+    "imgSrc":"company/hpe.png"
+   
+  
+  },
+{
+    "id": 2,
+    "role": "Content Team Member",
+    "organization": "Blockchain Club VITB",
+    "startYear":"2023 May",
+    "endYear":"2025 June",
+    "imgSrc":"company/bc.png"
+   
+  },
+  {
+    "id": 3,
+    "role": "Co-Lead: Technical Team",
+    "organization": "GSOC Innovators Club VITB",
+    "startYear":"2025 Feb",
+    "endYear":"2025 May",
+    "imgSrc":"company/gsoc.jpg"
+   
+  }
+]

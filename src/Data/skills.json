@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "title":"Java",
+        "imgSrc":"company/java.jpeg"
+
+
+    },   
+    {
+        "id":3,
+        "title":"CPP",
+        "imgSrc":"company/cpp.png"
+
+    },
+    {
+        "id":4,
+        "title":"HTML",
+        "imgSrc":"company/download.png"
+
+    },
+    {
+        "id":5,
+        "title":"CSS",
+        "imgSrc":"company/css.jpeg"
+
+    },
+    {   
+        "id":6,
+        "title":"JS",
+        "imgSrc":"company/js.jpeg"
+
+    },
+    {
+        "id":7,
+        "title":"React",
+        "imgSrc":"company/react.png"
+
+    },
+    {
+        "id":8,
+        "title":"Node",
+        "imgSrc":"company/node.png"
+
+    },
+    {
+        "id":9,
+        "title":"Express",
+        "imgSrc":"company/express.jpeg"
+
+    },
+    {
+        "id":10,
+        "title":"MongoDB",
+        "imgSrc":"company/mongodb.jpeg"
+
+    }
+]

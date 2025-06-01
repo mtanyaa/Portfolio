@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "title":"Capacity Advisor for Monitoring Resources",
+        "imgSrc":"company/pro1.png",
+        "description":"A tool designed to monitor resource utilization across hybrid infrastructure. The system features a real-time telemetry pipeline built with Apache Kafka, Node Exporter, JMX Exporter, and Prometheus, enabling continuous monitoring on AWS. "
+
+    },
+    {
+        "id":2,
+        "title":"Wanderlust",
+        "imgSrc":"company/wanderlust.png",
+        "description":"Built with Node.js, Express, and Tailwind CSS and powered by OpenRouter and Geoapify like APIs Wanderlust helps suggesting destinations tailored to your travel style and preferences and and creating a complete travel plan from itinerary to advisory."
+
+    },
+    {
+        "id":3,
+        "title":"Anime Scout",
+        "imgSrc":"company/anime.jpg",
+        "description":"It is a web app that lets users easily discover information about anime or manga episodes from just a screenshot. Built with Node.js for backend performance, it uses API integration via Express to deliver fast and accurate episode recognition and metadata retrieval."
+
+    },
+     {
+        "id":4,
+        "title":"BookNest",
+        "imgSrc":"company/booknest.jpg",
+        "description":"BookNest is a full-featured, user-friendly online bookstore web application built to provide readers with a seamless and personalized book shopping experience. With modern design, secure authentication, and dynamic features, BookNest is your one-stop destination for discovering, purchasing, and managing books online."
+
+    },{
+        "id":5,
+        "title":"Invest.io",
+        "imgSrc":"company/invest.png",
+        "description":"Invest.io is a financial analysis platform that allows users to view detailed financial data about a company. The platform includes sections for the company overview, profit & loss statement, balance sheet, and cash flow data. This project is built using PHP for the backend and MySQL for the database."
+    },{
+        "id":6,
+        "title":"WeaveSynth",
+        "imgSrc":"company/w.png",
+        "description":"The Adaptive News Weaver doesn't just generate discrete articles. It dynamically weaves a personalized news tapestry for each user, constantly adapting based on their explicit feedback ('more/less) and implicit interests (deduced from what they read, how deeply they engage, and even questions they might ask the system). It moves beyond a simple feed to a living, tailored to each individual."
+
+    }
+
+
+]
